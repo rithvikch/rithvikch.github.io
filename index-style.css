@@ -39,7 +39,7 @@ body {
 .quote {
     text-align: center;
     background-color: coral;
-    width: 20%;
+    width: 10em;
     margin: auto;
 }
 .sum {
